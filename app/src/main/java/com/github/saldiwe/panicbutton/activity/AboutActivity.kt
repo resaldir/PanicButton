@@ -15,7 +15,7 @@ class AboutActivity : AppCompatActivity() {
         setSupportActionBar(toolbar)
         supportActionBar?.setDisplayHomeAsUpEnabled(true);
         supportActionBar?.setDisplayShowHomeEnabled(true);
-        Toast.makeText(this, "Yeayyeah", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Berhasil Mamang!!", Toast.LENGTH_LONG).show()
 
     }
 
